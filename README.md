@@ -1,2 +1,2 @@
 # BATCRACK
-A team to crack Minecraft.
+A mod studio.
